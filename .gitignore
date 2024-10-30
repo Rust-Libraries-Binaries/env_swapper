@@ -1,0 +1,11 @@
+# Ignore compiled output
+/target/
+
+# Ignore the package manager lock file
+Cargo.lock
+
+# Ignore any other build artifacts, e.g., temporary files
+**/*.rs.bk
+
+# If you use dotenv, you may also want to ignore environment variable files
+.env
