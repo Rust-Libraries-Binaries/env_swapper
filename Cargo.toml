@@ -1,6 +1,6 @@
 [package]
 name = "env_swapper"
-version = "0.1.0"
+version = "0.1.1"
 edition = "2021"
 authors = ["Ben Santora <bensatlantik@gmail.com>"]
 description = "A lightweight Rust library to temporarily set environment variables and automatically restore them when out of scope."
