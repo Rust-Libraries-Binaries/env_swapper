@@ -1,3 +1,7 @@
+## Archived Repository
+
+**This repository was a gift from me to the Rust and open-source community. It is no longer actively maintained and has been archived. Feel free to fork and continue development on your own.**
+
 # EnvSwapper
 
 `env_swapper` is a lightweight Rust library to temporarily set environment variables, automatically restoring the previous state when out of scope.
@@ -36,6 +40,4 @@ Ideal for testing, sandboxed configurations, and controlled environment changes.
 This project is licensed under the MIT License.
 
 ## Author
-Ben Santora <bensatlantik@gmail.com>
-
-
+Ben Santora 
