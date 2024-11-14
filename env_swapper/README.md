@@ -1,3 +1,5 @@
+## All Rust libraries and binaries created by Ben Santora. All were coded using AI: ChatGPT - Widenex Rust GPT - Microsoft CoPilot
+
 # EnvSwapper
 
 `env_swapper` is a lightweight Rust library to temporarily set environment variables, automatically restoring the previous state when out of scope.
